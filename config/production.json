@@ -1,0 +1,6 @@
+{
+  "mail": {
+    "host": "smtp.mailtrap.io/production",
+    "port": 2525
+  }
+}

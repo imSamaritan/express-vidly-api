@@ -11,7 +11,13 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "config": "^4.1.1",
+    "debug": "^4.4.3",
+    "ejs": "^3.1.10",
     "express": "^5.1.0",
-    "joi": "^13.1.0"
+    "helmet": "^8.1.0",
+    "joi": "^13.1.0",
+    "morgan": "^1.10.1",
+    "mysql2": "^3.15.2"
   }
 }
